@@ -1,0 +1,21 @@
+[submodule "odin-recipe"]
+	path = odin-recipe
+	url = git@github.com:sarembot/odin-recipe.git
+[submodule "css-exercises"]
+	path = css-exercises
+	url = git@github.com:sarembot/css-exercises.git
+[submodule "learning-area"]
+	path = learning-area
+	url = git@github.com:sarembot/learning-area.git
+[submodule "javascript-exercises"]
+	path = javascript-exercises
+	url = git@github.com:sarembot/javascript-exercises.git
+[submodule "RockPaperScissors"]
+	path = RockPaperScissors
+	url = git@github.com:sarembot/RockPaperScissors.git
+[submodule "Etch-a-Sketch"]
+	path = Etch-a-Sketch
+	url = git@github.com:sarembot/Etch-a-Sketch.git
+[submodule "ruby-exercises"]
+	path = ruby-exercises
+	url = git@github.com:sarembot/ruby-exercises.git
